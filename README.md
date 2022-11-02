@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BEHJAOUMAIMA
-- 🌱 I’m currently learning Web development
+- 🌱
 
 
 
