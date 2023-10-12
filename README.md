@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en **Black Jack Game**
+- 🔭 Actualmente estoy trabajando en **Gather Grid Platform**
 
-- 🌱 Actualmente estoy aprendiendo **JAVA Language**
+- 🌱 Actualmente estoy aprendiendo **JAKARTA EE**
 
 - 📫 como llegar a mi **behja.oumaima1@gmail.com**
 
