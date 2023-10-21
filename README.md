@@ -1,5 +1,5 @@
-<h1 align="center">Hola ! Yo Soy Oumaima BEHJA</h1>
-<h3 align="center">Como estudiante en camino hacia el desarrollo full stack, estoy apasionada por la creación de aplicaciones web completas y funcionales, y estoy ansiosa por poner en práctica mis habilidades recién adquiridas para contribuir a proyectos inspiradores.</h3>
+<h1 align="center" style="color = black">Hola ! Yo Soy Oumaima BEHJA</h1>
+<h3 align="center" style="color = black">Como estudiante en camino hacia el desarrollo full stack, estoy apasionada por la creación de aplicaciones web completas y funcionales, y estoy ansiosa por poner en práctica mis habilidades recién adquiridas para contribuir a proyectos inspiradores.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=behjaoumaima&label=Profile%20views&color=0e75b6&style=flat" alt="behjaoumaima" /> </p>
 
