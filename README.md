@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" align="center" style="width: 100%" />
+<img src="https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.gif" align="center" style="width: 100% ; height: 100%" />
 </div>  
   
 
